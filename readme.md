@@ -14,9 +14,9 @@ Oracle VM VirtualBox의 Extension Pack 기능 중 하나인 VRDP (Virtualbox Rem
 
 ### Team. 방탈출 
 
-Escape VirtualBox like '**방탈출**' by VRDP Vulneralbility
+Escape VirtualBox like '**방탈출**' by VRDP Vulneralbility!
 
-### 팀원 소개
+### 팀원 구성
 
 #### 멘토
 
