@@ -1,6 +1,6 @@
 # VRDP취약점 찾기
 
-KISTI BoB 11기 팀 프로젝트 'VRDP취약점 찾기'
+KITRI BoB 11기 팀 프로젝트 'VRDP취약점 찾기'
 
 ## 프로젝트 소개
 
